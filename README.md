@@ -50,7 +50,8 @@ The workflow automatically receives messages from a Telegram group, processes th
 
 ## Workflow Preview
 
-![Telegram Group Chat Agent Workflow](Screenshot from 2026-05-29 13-51-31.png)
+![Telegram Group Chat Agent Workflow](![Uploading Screenshot from 2026-05-29 13-51-31.png…]()
+)
 
 ---
 
